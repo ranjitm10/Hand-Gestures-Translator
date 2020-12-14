@@ -1,2 +1,2 @@
-# Hand-Gestures-Translator
+# Emoji-Translator
 Created with CodeSandbox
